@@ -146,7 +146,7 @@ def main():
     user.view_cart()
 
 
-# Run the program if this file is executed directly
+# Run the program if this file is executed directly.
 if __name__ == "__main__":
     main()
 
